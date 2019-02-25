@@ -5,11 +5,11 @@
 Our main objective in this short course is to familiarize ourselves with the first two principles of successful machine learning projects
 
 * Problem identification: what problem is of sufficient economic value to merit attention, and is it one where data is likely to help?
-* Data science over data mining: it is essential to understand the nature of the problem, what one needs to predict and what variables are most likely to be relevant. Building a machine learning model over the right analytical framework is essential to success.
+* Data science over data mining: it is essential to understand the nature of the problem, what one needs to predict and what variables are most likely to be relevant. A machine learning model built on top of the right analytical framework is most likely to succeed.
 
-The machine learning space is far to wide to cover in a short series of lectures. There is no attempt to represent fairly the various techniques used in machine learning in finance, or even drill down deep into one particular technique. Instead, in this course we will  review some industry applications of machine learnings from the practitioner's viewpoint. We will use these examples to illustrate some of the common pitfalls found in machine learning applications. 
+The machine learning space is far to wide to cover in a short series of lectures. The course will not be an attempt to represent fairly the various techniques used in machine learning in finance, nor a substitute for learning these techniques in other settings. Instead, in this course we will  review a few examples of industry applications of machine learning from the practitioner's viewpoint. We will use these examples to illustrate some of the common pitfalls that are encountered when applying machine learning techniques in finance. 
 
-There is only one way to learn machine learning, and that is to play with data. We will provide some datasets for that purpose, students are encouraged to select one and come up with something to say about the data. For those more theoretically inclined or not yet handy with computer programming, an alternative option is to find a paper relevant to the course and prepare a short summary breaking down the work of the author(s) along the lines described in the present course. The last session will be dedicated to flash 5-minute presentations of selected submissions.
+There is only one way to learn machine learning, and that is to play with data. We will provide some datasets, students are encouraged to select one and come up with something to say about the data. For those more theoretically inclined or not yet handy with computer programming, an alternative option is to find a paper relevant to the course and prepare a short summary breaking down the work of the author(s) along the lines described in the present course. The last session will be dedicated to flash 5-minute presentations of selected submissions.
 
 ## Course summary
 
